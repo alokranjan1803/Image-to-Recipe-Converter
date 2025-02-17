@@ -55,7 +55,30 @@ streamlit run app.py
 4. The output displays the predicted dish name along with a detailed recipe.
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/395f6cd7-c996-41fb-b5cc-bb7aa55fda4f)
+![image](https://github.com/user-attachments/assets/f9fde9dc-ef71-4637-848a-9e05e405e43c)
+### Samosa Recipe
+#### Ingredients:
+1. 2 cups boiled potatoes, mashed
+2. 1 cup mixed vegetables (peas, carrots, etc.), boiled
+3. 1 medium onion, chopped
+4. 2 green chilies, chopped
+5. 1 tsp ginger-garlic paste
+6. 1 tsp cumin seeds
+7. 1 tsp coriander powder
+8. 1 tsp garam masala
+9. 1/2 tsp turmeric powder
+10. 1 tsp red chili powder
+11. Salt to taste
+12. 1 tbsp oil
 
+#### Instructions:
+1. Heat oil in a pan, add cumin seeds, then sauté onions, chilies, and ginger-garlic paste.
+2. Add boiled veggies and spices; cook for 5-7 minutes.
+3. Cool the mixture and shape into small portions.
+4. Fold samosa wrappers into cones, fill with the mixture, and seal the edges.
+5. Heat oil in a pan and deep fry samosas until golden brown.
+6. Serve hot with chutney or ketchup. Enjoy your crispy samosas! 🌶️🥔
 
 ## 📖 Future Enhancements
 - **Improve food classification accuracy using fine-tuned models.**
