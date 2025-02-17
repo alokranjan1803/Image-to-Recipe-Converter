@@ -1,6 +1,6 @@
-# 🍽️ Image-to-Recipe Converter  
+# 🍽️ Image To Recipe Converter  
 
-A deep learning-based application that predicts food items from images and generates step-by-step recipes using NLP models.
+The Image-to-Recipe Converter is an innovative deep learning application that combines computer vision and natural language processing (NLP) to predict food items from images and generate step-by-step recipes. The goal is to make cooking simpler and more accessible by allowing users to get detailed recipes directly from food images.
 
 ## 🚀 Project Overview  
 This project utilizes computer vision and natural language processing (NLP) to classify food images and generate structured recipes based on the predicted dish.  
