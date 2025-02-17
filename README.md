@@ -34,3 +34,36 @@ This project utilizes computer vision and natural language processing (NLP) to c
 ```bash
 git clone https://github.com/alokranjan1803/image-to-recipe.git
 cd image-to-recipe
+```
+### 🔹 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 🔹 3. Run the Backend (FastAPI)
+```bash
+uvicorn app:app --host 0.0.0.0 --port 8000
+```
+### 🔹 4. Run the Frontend (Streamlit)
+```bash
+streamlit run app.py
+```
+
+## 📌 Usage
+1. Upload an image of a food item via the Streamlit UI.
+2. The backend predicts the food category using CLIP/ViT.
+3. The model generates a structured recipe using GPT-based text generation.
+4. The output displays the predicted dish name along with a detailed recipe.
+
+## 📸 Screenshots
+
+
+## 📖 Future Enhancements
+- **Improve food classification accuracy using fine-tuned models.**
+- **Add multi-language support for recipe generation.**
+- **Implement real-time ingredient recognition for more personalized recipes.**
+
+## 💡 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+
+
